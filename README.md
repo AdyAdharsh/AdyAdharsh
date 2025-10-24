@@ -45,5 +45,3 @@ Relevant coursework: Machine Learning, Deep Learning, Computer Vision, NLP, Appl
 
 ---
 
-<!-- Add visible vertical space before the pinned repositories -->
-<br><br>
