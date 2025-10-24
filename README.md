@@ -14,10 +14,6 @@ Master’s student in Artificial Intelligence at Kingston University with hands-
 Jan 2025 – Jan 2027  
 Relevant coursework: Machine Learning, Deep Learning, Computer Vision, NLP, Applied Data Programming, Big Data & Data Mining, Ethics & Regulation of AI
 
-**University of Greenwich, London, UK** — Master’s in Computing & Information Systems  
-Jan 2021 – May 2022  
-Relevant coursework: UX Design, Mobile App Development, System Modelling, Software Tools & Security
-
 ---
 
 ## ☀️ Selected Projects & Experience 
